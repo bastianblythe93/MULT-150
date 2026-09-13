@@ -325,7 +325,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\blyth\OneDrive\Documents\GitHub\MULT-150\bwiedemann_Hour1\bwiedemann_Hour2
+  m_LastProjectPath: C:\Users\blyth\OneDrive\Documents\GitHub\MULT-150\bwiedemann_Hour2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -775,9 +775,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.45811337, y: 3.2824235, z: 0.90314347}
+    m_Target: {x: -0.9439062, y: 3.2970445, z: 0.5979772}
     speed: 2
-    m_Value: {x: -0.45811337, y: 3.2824235, z: 0.90314347}
+    m_Value: {x: -0.9439062, y: 3.2970445, z: 0.5979772}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -828,9 +828,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.0455737, y: 0.9486634, z: -0.16089006, w: 0.26868376}
   m_Size:
-    m_Target: 5.8299136
+    m_Target: 4.742331
     speed: 2
-    m_Value: 5.8299136
+    m_Value: 4.9657917
   m_Ortho:
     m_Target: 1
     speed: 2
