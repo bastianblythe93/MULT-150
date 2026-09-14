@@ -1,5 +1,17 @@
 sceneSetups:
-- path: Assets/bwiedemann_Hour3.unity
+- path: Assets/Scenes/TIY3.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/TIY4.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/TIY4.1.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/bwiedemann_Hour4.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

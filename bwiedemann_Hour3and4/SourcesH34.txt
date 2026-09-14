@@ -10,5 +10,5 @@ Texture 1 source url: https://architextures.org/textures/3986
 
 Texture 2 source url: https://architextures.org/textures/4011
 
-3D model source url:
+3D model source url: https://assetstore.unity.com/packages/3d/vegetation/trees/european-forests-realistic-trees-229716
 
