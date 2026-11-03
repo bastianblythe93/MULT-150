@@ -1,0 +1,25 @@
+sceneSetups:
+- path: Assets/Scenes/SampleScene.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/TIY_Using_Rigidbodies.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/TIY_Experimenting_With_Colliders.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/TIY_Working_With_Triggers.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/TIY_Casting_Some_Rays.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/bwiedemann_Hour9.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
